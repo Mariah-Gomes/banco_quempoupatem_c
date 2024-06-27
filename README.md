@@ -30,7 +30,7 @@ Nesse projeto nos foi proposto realizar um banco com algumas funcionalidades par
 
 3. Caso a pessoa seleciona a opção 2 (para apagar um cliente já cadastrado) pede para colocar o cpf do cliente. Depois de ver se o cliente está cadastrado ele apaga esse mesmo cliente do arquivo e salva sem ter ele na lista de clientes.
 
-  ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/55dad0a8-f542-49ec-b0a3-40cc184b2e87)
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/55dad0a8-f542-49ec-b0a3-40cc184b2e87)
  
 4.a
 5.A
