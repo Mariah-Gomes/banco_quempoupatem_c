@@ -24,11 +24,11 @@ Nesse projeto nos foi proposto realizar um banco com algumas funcionalidades par
 
    ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/dcc0c1f8-fd46-4818-b282-b18e731e95c8)
 
-2. Caso a pessoa selecione a opção 1 (Para cadastrar um novo cliente) pede para preencher algumas informações, ao responder todas elas essas informações são salvas em um arquivo
+2. Caso a pessoa selecione a opção 1 (novo cliente) pede para preencher algumas informações, ao responder todas elas essas informações são salvas em um arquivo
 
    ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/c2491c6e-fcb2-4490-a4ee-370b800fa1ae)
 
-3. Caso a pessoa seleciona a opção 2 (para apagar um cliente já cadastrado) pede para colocar o cpf do cliente. Depois de ver se o cliente está cadastrado ele apaga esse mesmo cliente do arquivo e salva sem ter ele na lista de clientes.
+3. Caso a pessoa seleciona a opção 2 (apaga cliente) pede para colocar o cpf do cliente. Depois de ver se o cliente está cadastrado ele apaga esse mesmo cliente do arquivo e salva sem ter ele na lista de clientes.
 
    ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/55dad0a8-f542-49ec-b0a3-40cc184b2e87)
  
@@ -36,7 +36,14 @@ Nesse projeto nos foi proposto realizar um banco com algumas funcionalidades par
 5.A
 6.A
 7.A
-8.A
+
+8. Caso a pessoa selecione a opção 7 (cartões) dá a opção para o usuário cadastrar um cartão de sua escolhe.
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/d508850f-afe0-482e-9b91-72bac59cd19a)
+
+9. Caso a pessoa selecione a opção 8 (sair) o programa se encerra automâticamente
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/b7091587-5040-4ffe-95e7-db133ca6f192)
 
 ## :computer: Tecnologias Utilizadas
 - Linguagem que utilizei foi C
