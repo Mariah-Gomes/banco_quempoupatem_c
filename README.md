@@ -1,12 +1,10 @@
-# Título do projeto
-
-Antes mostra algumas informações do projeto
+# Banco C
 
 > Status do projeto: Finalizado
 
-> Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
+> Esse projeto nos foi proposto no 2ºSemestre na disciplina de Desenvolvimento de Algoritmos
 
-> Programamos inicialmente esse projeto no tinkercad juntos, depois passamos para a IDE do Arduino logo que fizemos isso subimos o arquivo do Arduino IDE no GitHub  
+> Decidi subir recentemente esse projeto no GitHub  
 
 ### Tópicos
 
@@ -19,13 +17,13 @@ Antes mostra algumas informações do projeto
 🔹[Desenvolvedores](#busts_in_silhouette-desenvolvedores)
 
 ## :pencil: Descrição do Projeto
-Aqui a gente escreve um ou dois parágrafos explicando o projeto
+Nesse projeto nos foi proposto realizar um banco com algumas funcionalidades para o cliente em C. Portanto, assim que entrasse teria funcionalidades como, novo cliente, apaga cliente, depósito, débito e entre outras funcionalidades. Além disso, as informações são salvas em um arquivo txt e em um arquivo binário.
 
 ## :mag_right: Funcionalidade
 Aqui mostra as funcionalidades do projeto em tópicos (de numeração e com a foto)
 
 ## :computer: Tecnologias Utilizadas
-Nesse espaço é descrita as tecnologias utilizadas utilizando tópicos (-)
+- Linguagem que utilizei foi C
 
 ## :busts_in_silhouette: Desenvolvedores
 | [<img loading="lazy" src="https://github.com/Mariah-Gomes/ProjetoCompMovel1/assets/141663285/e6827fd1-d8fe-4740-b6fc-fbbfccd05752" width=115><br><sub>Mariah Santos Gomes</sub>](https://github.com/Mariah-Gomes) | 
