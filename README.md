@@ -1,4 +1,4 @@
-# Banco C
+# Banco QuemPoupaTem (Versão C)
 
 > Status do projeto: Finalizado
 
@@ -32,10 +32,21 @@ Nesse projeto nos foi proposto realizar um banco com algumas funcionalidades par
 
    ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/55dad0a8-f542-49ec-b0a3-40cc184b2e87)
  
-4.a
-5.A
-6.A
-7.A
+4. Caso a pessoa selecione a opção 3 (débito) realiza uma operação de débito da sua conta.
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/67ba96fe-c0f6-456d-924f-54a18204aa82)
+
+5. Caso a pessoa selecione a opção 4 (depósito) realiza uma operação de depósito da sua conta.
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/93318197-bf4a-4497-a7fa-66b9ae280a11)
+
+6. Caso a pessoa selecione a opção 5 (extrato) mostra as transações realizadas por ela.  
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/df766f11-4d0c-409d-b586-d29f6d7bee48)
+
+7. Caso a pessoa selecione a opção 6 (transferência entre contas) o usuário pode transferir para uma conta de um outro cliente cadastrado.
+
+   ![image](https://github.com/Mariah-Gomes/banco_c/assets/141663285/c4829ab9-79c4-4d2f-90e3-d7d69da65e3b)
 
 8. Caso a pessoa selecione a opção 7 (cartões) dá a opção para o usuário cadastrar um cartão de sua escolhe.
 
