@@ -1,4 +1,4 @@
-# Banco QuemPoupaTem ( Em C )
+# Banco QuemPoupaTem (Em C)
 
 > Status do projeto: Finalizado
 
